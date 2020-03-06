@@ -1,0 +1,14 @@
+
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+terraform.tfvars
+
+#  provider 
+provider.tf
+
+.terraform*
