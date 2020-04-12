@@ -1,5 +1,4 @@
 # Hashicorp Vault and Consul cluster setup using Ansible Roles
-
 =============================================================
 
 Installs and configures Hashicorp's Consul & Vault
