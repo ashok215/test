@@ -1,4 +1,4 @@
-Hashicorp Vault and Consul cluster setup using Ansible Roles
+# Hashicorp Vault and Consul cluster setup using Ansible Roles
 
 =============================================================
 
@@ -11,9 +11,6 @@ Our goal is to arrive at a Vault HA setup consisting of the following:
 
 ### Overview of deployment
 ![Alt text](https://d33wubrfki0l68.cloudfront.net/ec1b3f53bb1180cb00526bad056773f25c3d251a/f2075/img/vault-ha-consul.png "Overview of deployment")
-
-##Reference
-<https://www.vaultproject.io/guides/operations/vault-ha-consul.html>
 
 
 Requirements
@@ -34,3 +31,4 @@ Execute the  following command:
 ```
 ansible-playbook main.yml -i inventory
 ```
+
